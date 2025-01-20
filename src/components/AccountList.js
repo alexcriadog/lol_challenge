@@ -12,7 +12,7 @@ const AccountList = () => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState(true);
 
-  const apiKey = "RGAPI-783245e9-561a-4dcc-8e02-0cd5b3e974bb";
+  const apiKey = "RGAPI-b369b662-dc92-4284-ada5-fd2a312f4c1b";
 
   useEffect(() => {
     const fetchData = async () => {
